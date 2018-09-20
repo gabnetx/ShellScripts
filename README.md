@@ -37,7 +37,7 @@ Some examples of scripts that will collect in day
 
 ```shell
 $ git clone https://github.com/gabnetx/ShellScripts
-$ cd badger
+$ cd ShellScripts
 $ bundle
 $ rake
 ```
