@@ -3,8 +3,8 @@
 # ShellScripts
 Some examples of scripts that will collect in day
 
- [![Github Issues](http://githubbadges.herokuapp.com/gabnetx/ShellScripts/issues.svg?style=flat-square)](https://github.com/gabnetx/ShellScripts/issues) [![Pending Pull-Requests](http://githubbadges.herokuapp.com/badges/badgerbadgerbadger/pulls.svg?style=flat-square)](https://github.com/gabnetx/ShellScripts/pulls) [![Gem Version](http://img.shields.io/gem/v/badgerbadgerbadger.svg?style=flat-square)](https://github.com/gabnetx/ShellScripts) 
-
+ [![Github Issues](http://githubbadges.herokuapp.com/gabnetx/ShellScripts/issues.svg?style=flat-square)](https://github.com/gabnetx/ShellScripts/issues) [![Pending Pull-Requests](http://githubbadges.herokuapp.com/gabnetx/ShellScripts/pulls.svg?style=flat-square)](https://github.com/gabnetx/ShellScripts/pulls) [![License](http://img.shields.io/:license-mit-blue.svg)](http://doge.mit-license.org) 
+ 
 > Subtitle or Short Description Goes Here
 
 > ideally one sentence
@@ -29,15 +29,11 @@ Some examples of scripts that will collect in day
 - All the `code` required to get started
 - Images of what it should look like
 
-### Clone
+### Help me make it better
 
 - Clone this repo to your local machine using `https://github.com/gabnetx/ShellScripts`
 
-### Help me make it better
-
-- If you want more syntax highlighting, format your code like this:
-
-> update and install this package first
+> OR
 
 ```shell
 $ git clone https://github.com/gabnetx/ShellScripts
