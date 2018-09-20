@@ -1,4 +1,4 @@
-<!-- [![FVCproductions](https://raw.githubusercontent.com/gabnetx/ShellScripts/master/BusinessCardGabnetx_Mayor.png)](https://github.com/gabnetx) -->
+ [![FVCproductions](https://raw.githubusercontent.com/gabnetx/ShellScripts/master/BusinessCardGabnetx_Mayor.png)](https://github.com/gabnetx) 
 
 # ShellScripts
 Some examples of scripts that will collect in day
