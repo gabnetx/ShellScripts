@@ -1,10 +1,11 @@
- [![FVCproductions](https://raw.githubusercontent.com/gabnetx/ShellScripts/master/BusinessCardGabnetx_Mayor.png)](https://github.com/gabnetx) 
-
 # ShellScripts
 Some examples of scripts that will collect in day
 
  [![Github Issues](http://githubbadges.herokuapp.com/gabnetx/ShellScripts/issues.svg?style=flat-square)](https://github.com/gabnetx/ShellScripts/issues) [![Pending Pull-Requests](http://githubbadges.herokuapp.com/gabnetx/ShellScripts/pulls.svg?style=flat-square)](https://github.com/gabnetx/ShellScripts/pulls) [![License](http://img.shields.io/:license-mit-blue.svg)](http://doge.mit-license.org) 
- 
+
+ [![FVCproductions](https://raw.githubusercontent.com/gabnetx/ShellScripts/master/BusinessCardGabnetx_Mayor.png)](https://github.com/gabnetx) 
+
+
 > Subtitle or Short Description Goes Here
 
 > ideally one sentence
